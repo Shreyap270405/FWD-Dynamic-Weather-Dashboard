@@ -34,21 +34,27 @@ Run the project
 Open index.html in your browser.
 Search for cities, use your location, and save favorites.
 
-Project Goals
+---
+
+## Project Goals
 WeatherWave demonstrates how to:
 
-Integrate third-party APIs
+- Integrate third-party APIs
 
-Build a responsive and modern UI
+- Build a responsive and modern UI
 
-Create a user-friendly experience for real-world weather tracking and planning
+- Create a user-friendly experience for real-world weather tracking and planning
 
-Developer
+---
+
+## Developer
 Created by Shreya Pandey — Computer Science student passionate about web development and data science.
 
 Feel free to fork, contribute, or connect via GitHub or LinkedIn.
 
-Contributing
+---
+
+## Contributing
 Contributions are welcome!
 Fork the repository, make improvements, and submit a pull request.
 
