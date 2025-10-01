@@ -27,12 +27,12 @@ WeatherWave is a modern, responsive weather dashboard that provides real-time we
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Shreyap270405/FWD-Dynamic-Weather-Dashboard.git
-Add your OpenWeatherMap API key
-Open app.js and replace the placeholder with your API key.
+2. Add your OpenWeatherMap API key
+   Open app.js and replace the placeholder with your API key.
 
-Run the project
-Open index.html in your browser.
-Search for cities, use your location, and save favorites.
+3. Run the project
+   Open index.html in your browser.
+   Search for cities, use your location, and save favorites.
 
 ---
 
@@ -48,9 +48,13 @@ WeatherWave demonstrates how to:
 ---
 
 ## Developer
-Created by Shreya Pandey — Computer Science student passionate about web development and data science.
 
-Feel free to fork, contribute, or connect via GitHub or LinkedIn.
+**Shreya Pandey**  
+Computer Science student passionate about **web development** and **data science**.  
+
+- GitHub: [Shreyap270405](https://github.com/Shreyap270405)  
+- LinkedIn: [Shreya Pandey](https://www.linkedin.com/in/shreyap270405)  
+
 
 ---
 
@@ -62,5 +66,5 @@ Fork the repository, make improvements, and submit a pull request.
 
 
 
----
+
 
