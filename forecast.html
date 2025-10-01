@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>5-Day Forecast — WeatherWave</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body data-page="forecast">
+  <header class="nav">
+    <div class="brand"><a href="index.html">WeatherWave</a></div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="forecast.html" class="active">5-Day Forecast</a>
+      <a href="favorites.html">Favorites</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="forecast-section">
+      <div class="controls small">
+        <input id="forecastSearch" placeholder="Search city for forecast" />
+        <button id="forecastSearchBtn" class="btn">Search</button>
+      </div>
+
+      <div class="card forecast-main">
+        <h2 id="forecastTitle">5-Day Forecast</h2>
+
+        <div id="forecastDays" class="forecast-grid">
+          
+        </div>
+
+        <div id="detailList" class="detail-list card muted"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div>© 2025 WeatherWave · Developed by Shreya Pandey · Powered by OpenWeatherMap
+</div>
+  </footer>
+
+  <script defer src="js/app.js"></script>
+</body>
+</html>
