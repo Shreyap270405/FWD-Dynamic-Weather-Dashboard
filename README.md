@@ -5,8 +5,7 @@ WeatherWave is a modern, responsive weather dashboard that provides real-time we
 ---
 
 ## Live Demo
-Check out the project here: [WeatherWave Demo](https://fwd-dynamic-weather-dashboard.netlify.app/>
-)
+Check out the project here: [WeatherWave Demo](https://fwd-dynamic-weather-dashboard.netlify.app/)
 
 ---
 
