@@ -4,6 +4,11 @@ WeatherWave is a modern, responsive weather dashboard that provides real-time we
 
 ---
 
+## Live Demo
+Check out the project here: [WeatherWave Demo](https://fwd-dynamic-weather-dashboard.netlify.app/>)
+
+---
+
 ## Features
 - Search any city worldwide and view current weather conditions  
 - 5-day forecast with daily breakdowns and weather icons  
@@ -44,6 +49,15 @@ WeatherWave demonstrates how to:
 - Build a responsive and modern UI
 
 - Create a user-friendly experience for real-world weather tracking and planning
+
+---
+
+## Future Enhancements
+- Add hourly forecasts with advanced weather trend charts.
+- Provide dark mode and multi-language support.
+- Enable weather alerts, notifications, and offline mode.
+- Extend as a mobile app and integrate with smart devices/wearables.
+- Use AI/ML models for improved weather predictions.
 
 ---
 
